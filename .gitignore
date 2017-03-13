@@ -1,3 +1,5 @@
 *.o
 *.pbi
 *.pbi.xcl
+Proj/List
+Proj/Debug
